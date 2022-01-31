@@ -1,0 +1,6 @@
+D:\Sudha\ConsoleApplication2bavana\ConsoleApplication2bavana\bin\Debug\ConsoleApplication2bavana.exe.config
+D:\Sudha\ConsoleApplication2bavana\ConsoleApplication2bavana\bin\Debug\ConsoleApplication2bavana.exe
+D:\Sudha\ConsoleApplication2bavana\ConsoleApplication2bavana\bin\Debug\ConsoleApplication2bavana.pdb
+D:\Sudha\ConsoleApplication2bavana\ConsoleApplication2bavana\obj\Debug\ConsoleApplication2bavana.csprojResolveAssemblyReference.cache
+D:\Sudha\ConsoleApplication2bavana\ConsoleApplication2bavana\obj\Debug\ConsoleApplication2bavana.exe
+D:\Sudha\ConsoleApplication2bavana\ConsoleApplication2bavana\obj\Debug\ConsoleApplication2bavana.pdb
