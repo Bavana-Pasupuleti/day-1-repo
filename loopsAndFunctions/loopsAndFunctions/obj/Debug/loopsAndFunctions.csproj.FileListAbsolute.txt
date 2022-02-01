@@ -1,0 +1,6 @@
+D:\Sudha\loopsAndFunctions\loopsAndFunctions\bin\Debug\loopsAndFunctions.exe.config
+D:\Sudha\loopsAndFunctions\loopsAndFunctions\obj\Debug\loopsAndFunctions.csprojResolveAssemblyReference.cache
+D:\Sudha\loopsAndFunctions\loopsAndFunctions\bin\Debug\loopsAndFunctions.exe
+D:\Sudha\loopsAndFunctions\loopsAndFunctions\bin\Debug\loopsAndFunctions.pdb
+D:\Sudha\loopsAndFunctions\loopsAndFunctions\obj\Debug\loopsAndFunctions.exe
+D:\Sudha\loopsAndFunctions\loopsAndFunctions\obj\Debug\loopsAndFunctions.pdb
