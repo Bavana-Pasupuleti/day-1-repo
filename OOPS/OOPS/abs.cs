@@ -37,7 +37,7 @@ namespace OOPS
     }
     class abs
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             Dog d = new Dog();
             d.setname("doggy");
