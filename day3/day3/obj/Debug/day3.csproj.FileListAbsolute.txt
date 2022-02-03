@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\git\day3\day3\bin\Debug\day3.exe.config
+C:\Users\DELL\Desktop\git\day3\day3\bin\Debug\day3.exe
+C:\Users\DELL\Desktop\git\day3\day3\bin\Debug\day3.pdb
+C:\Users\DELL\Desktop\git\day3\day3\obj\Debug\day3.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\git\day3\day3\obj\Debug\day3.exe
+C:\Users\DELL\Desktop\git\day3\day3\obj\Debug\day3.pdb
