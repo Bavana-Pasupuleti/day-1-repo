@@ -1,0 +1,25 @@
+abstract classes cannt have objects
+whenever we create object for child class it first calls the parent class
+when there are abstract methods in a class and another class is inheriying then we have to override it
+
+override and virtual 
+
+Create a class "House", with an attribute "area", a constructor that sets its value and a method "ShowData" to display "I am a house, my area is 200 m2" (instead of 200, it will show the real surface). Include getters an setters for the area, too.
+The "House" will contain a door. Each door will have an attribute "color" (a string), and a method "ShowData" wich will display "I am a door, my color is brown" (or whatever color it really is). Include a getter and a setter. Also, create a "GetDoor" in the house.
+A "SmallApartment" is a subclass of House, with a preset area of 50 m2.
+Also create a class Person, with a name (string). Each person will have a house. The method "ShowData" for a person will display his/her name, show the data of his/her house and the data of the door of that house.
+Write a Main to create a SmallApartment, a person to live in it, and to show the data of the person.
+
+
+
+Write a program for creating Laptop.
+Name, Price, Processor, Ram and Hard drive should be defined in base class as constant.
+You need to inherit these functionalities in your program and Print Details.
+All the laptop should have different name, price, processor, ram and hard drive
+
+
+Create a C# program that implements an abstract class Animal that has a Name property of type text and three methods SetName (string name), GetName and Eat. The Eat method will be an abstract method of type void.
+
+You will also need to create a Dog class that implements the above Animal class and the Eat method that says the dog is Eating.
+
+To test the program ask the user for a dog name and create a new Dog type object from the Main of the program, give the Dog object a name, and then execute the GetName and Eat methods.
